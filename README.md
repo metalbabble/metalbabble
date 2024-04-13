@@ -1,4 +1,10 @@
-### Hi there 👋
+# Who I am
+
+Software architect, art instructor, game designer, gear head, dog musher, retro enthusiast, proud parent... and overall geek.
+
+# Metal.. what?
+
+Metalbabble.com (a classic NES reference) is a name I’ve used in conjunction with various projects over the years; including web design, animation, music, comics, and indy video games. If you’re interested in any past projects, feel free to contact me. Metalbabble.com is all about jumping into new territories, and celebrating technology as a medium.  
 
 <!--
 **metalbabble/metalbabble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
